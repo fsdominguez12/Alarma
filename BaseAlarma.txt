@@ -1,0 +1,6 @@
+﻿Tomar_mi_medicamento Miercoles 11 0 Botella Activado
+Comprar_comida_para_el_perro Sabado 17 30 AhiVa Activado
+Cita_con_la_abuela Lunes 12 30 Botella Activado
+Presentar_el_proyecto Viernes 13 30 AhiVa Desactivado
+Sacar_la_basura Lunes 9 15 Sirena ActivadoLLamar_a_la_michu_jaaj Miercoles 23 2 Botella Activado
+qw Miercoles 23 2 AhiVa Activado
